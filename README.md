@@ -135,7 +135,6 @@ class Jason:
 <div align="center">
 
 ###  "我与我周旋久，宁作我" 
-![Visitor Count](https://profile-counter.glitch.me/Fighting05/count.svg)
 
 **Thanks for visiting! Feel free to reach out for collaborations! 🚀**
 
