@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jason
 - 👀 I’m interested in everything.
-- 🌱 I’m currently learning Cryptographic Science and Technology
+- 🌱 I’m currently learning Cryptographic Science and Technology in Nankai University.
 - 📫 How to reach me 3051528893@qq.com
 - Welcome!!!
 
