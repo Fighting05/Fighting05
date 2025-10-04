@@ -7,9 +7,9 @@
 --->
 <div align="center">
 
-# 👋 Hi there, I'm Jason (郭佳成)
+# 👋 Hi there, I'm Jason
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cryptography+Enthusiast+🔐;Security+Researcher+🛡️;Nankai+University+Student+🎓;Passionate+about+Everything+✨" alt="Typing SVG" />
+
 
 </div>
 
@@ -27,7 +27,6 @@ class Jason:
             "major": "Cryptographic Science & Technology",
             "status": "Undergraduate",
             "ranking": "1/41 (Top 2.4%)",
-            "gpa": "3.82/4.0"
         }
         self.interests = ["Cryptography", "Security", "AI", "Everything"]
         self.current_focus = "Password Security & Cryptographic Systems"
@@ -57,7 +56,7 @@ class Jason:
 - 🥈 National 2nd Prize - Information Security Competition
 - 🥇 National 1st Prize - Cryptography Math Challenge
 - 💰 Yun'an Cryptography Innovation Scholarship
-- 📚 25+ Courses with 90+ Scores
+
 
 </td>
 </tr>
@@ -101,33 +100,12 @@ class Jason:
 
 ---
 
-## 🎓 Academic Highlights
-
-```
-📚 Core Courses Excellence:
-  ├─ Information Theory
-  ├─ Mathematical Foundations of Information Security  
-  ├─ Mathematical Logic & Graph Theory
-  └─ 22+ Additional Courses with 90+ Scores
-
-🔬 Research Experience:
-  ├─ Cryptography & System Security Lab (Undergraduate Intern)
-  ├─ Supervised by Prof. Wang Ding
-  └─ 3 Major Projects Completed in One Year
-
-🏅 Awards & Recognition:
-  ├─ 1st Place in Major Ranking
-  ├─ National Competition Awards (1st & 2nd Prize)
-  └─ University Innovation Training Program
-```
 
 ---
 
 ## 🌱 Currently
 
 - 🔭 Working on **Password Security Research** with LLMs and Acoustic Analysis
-- 🌱 Learning advanced **Cryptographic Protocols** and **System Security**
-- 📝 Preparing paper submission to **NDSS 2026**
 - 💡 Exploring applications of **AI in Cybersecurity**
 
 ---
@@ -156,13 +134,11 @@ class Jason:
 
 <div align="center">
 
-### 🌟 "我与我周旋久，宁作我" - 守住我！🌟
-
+###  "我与我周旋久，宁作我" 
 ![Visitor Count](https://profile-counter.glitch.me/Fighting05/count.svg)
 
 **Thanks for visiting! Feel free to reach out for collaborations! 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
 <!---
