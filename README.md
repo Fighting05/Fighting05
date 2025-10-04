@@ -1,9 +1,170 @@
+<!---
 - 👋 Hi, I’m @Jason
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning Cryptographic Science and Technology in Nankai University.
 - 📫 How to reach me 3051528893@qq.com
 - Welcome!!!
+--->
+<div align="center">
 
+# 👋 Hi there, I'm Jason (郭佳成)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cryptography+Enthusiast+🔐;Security+Researcher+🛡️;Nankai+University+Student+🎓;Passionate+about+Everything+✨" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🎯 About Me
+
+```python
+class Jason:
+    def __init__(self):
+        self.name = "郭佳成 (Guo Jiacheng)"
+        self.location = "Tianjin, China 🇨🇳"
+        self.education = {
+            "university": "Nankai University",
+            "major": "Cryptographic Science & Technology",
+            "status": "Undergraduate",
+            "ranking": "1/41 (Top 2.4%)",
+            "gpa": "3.82/4.0"
+        }
+        self.interests = ["Cryptography", "Security", "AI", "Everything"]
+        self.current_focus = "Password Security & Cryptographic Systems"
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's build secure systems together! 🚀")
+```
+
+---
+
+## 🔬 Research & Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Current Research
+- 🔐 **Password Recovery Systems** using LLMs
+- 🎵 **Acoustic Keyboard Security** Detection
+- 📊 **Password Distribution Modeling** with Taylor Expansion
+- 🏆 Research Intern @ Cryptography Lab, Nankai University
+
+</td>
+<td width="50%">
+
+### 🏆 Achievements
+- 🥈 National 2nd Prize - Information Security Competition
+- 🥇 National 1st Prize - Cryptography Math Challenge
+- 💰 Yun'an Cryptography Innovation Scholarship
+- 📚 25+ Courses with 90+ Scores
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### Specializations
+
+![Cryptography](https://img.shields.io/badge/Cryptography-FF6B6B?style=for-the-badge&logo=lock&logoColor=white)
+![Security](https://img.shields.io/badge/Security-4ECDC4?style=for-the-badge&logo=security&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-FF9F1C?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Research](https://img.shields.io/badge/Research-2EC4B6?style=for-the-badge&logo=academia&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fighting05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fighting05&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fighting05&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎓 Academic Highlights
+
+```
+📚 Core Courses Excellence:
+  ├─ Information Theory
+  ├─ Mathematical Foundations of Information Security  
+  ├─ Mathematical Logic & Graph Theory
+  └─ 22+ Additional Courses with 90+ Scores
+
+🔬 Research Experience:
+  ├─ Cryptography & System Security Lab (Undergraduate Intern)
+  ├─ Supervised by Prof. Wang Ding
+  └─ 3 Major Projects Completed in One Year
+
+🏅 Awards & Recognition:
+  ├─ 1st Place in Major Ranking
+  ├─ National Competition Awards (1st & 2nd Prize)
+  └─ University Innovation Training Program
+```
+
+---
+
+## 🌱 Currently
+
+- 🔭 Working on **Password Security Research** with LLMs and Acoustic Analysis
+- 🌱 Learning advanced **Cryptographic Protocols** and **System Security**
+- 📝 Preparing paper submission to **NDSS 2026**
+- 💡 Exploring applications of **AI in Cybersecurity**
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-3051528893@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3051528893@qq.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Fighting05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fighting05)
+[![University](https://img.shields.io/badge/Nankai_University-密网学院-4B0082?style=for-the-badge&logo=academia&logoColor=white)](https://cyber.nankai.edu.cn/)
+
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 "我与我周旋久，宁作我" - 守住我！🌟
+
+![Visitor Count](https://profile-counter.glitch.me/Fighting05/count.svg)
+
+**Thanks for visiting! Feel free to reach out for collaborations! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
 <!---
 Fighting05/Fighting05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
