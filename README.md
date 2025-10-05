@@ -20,7 +20,7 @@
 ```python
 class Jason:
     def __init__(self):
-        self.name = "郭佳成 (Guo Jiacheng)"
+        self.name = "Jason"
         self.location = "Tianjin, China 🇨🇳"
         self.education = {
             "university": "Nankai University",
