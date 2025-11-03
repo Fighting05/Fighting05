@@ -26,7 +26,6 @@ class Jason:
             "university": "Nankai University",
             "major": "Cryptographic Science & Technology",
             "status": "Undergraduate",
-            "ranking": "1/41 (Top 2.4%)",
         }
         self.interests = ["Cryptography", "Security", "AI", "Everything"]
         self.current_focus = "Password Security & Cryptographic Systems"
