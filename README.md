@@ -116,6 +116,7 @@ class Jason:
 [![Email](https://img.shields.io/badge/Email-3051528893@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3051528893@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Fighting05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fighting05)
 [![University](https://img.shields.io/badge/Nankai_University-密网学院-4B0082?style=for-the-badge&logo=academia&logoColor=white)](https://cyber.nankai.edu.cn/)
+![Visitor Count](https://komarev.com/ghpvc/?username=Fighting05&color=green&style=flat-square)
 
 </div>
 
